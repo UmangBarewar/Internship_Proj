@@ -7,10 +7,10 @@ A full-stack real-time chat application built with the **MERN stack**, **Socket.
 
 ## 📸 Preview
 
-![Login Page](./login.png)
-![Chat Interface](./chat.png)
+![Login Page](./Login.png)
+![Chat Interface](./chatinterface.png)
 
-> 📁 Add your actual screenshots to the `/screenshots` folder and update the paths above.
+> 📁 Actual screenshots 
 
 ---
 
