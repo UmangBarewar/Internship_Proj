@@ -1,6 +1,4 @@
----
 
-```markdown
 # 💬 Real-Time Chat Application
 
 A full-stack real-time chat application built with the **MERN stack**, **Socket.io**, **Zustand**, **Cloudinary**, and styled using **Tailwind CSS** with **DaisyUI**. The app supports real-time messaging, JWT-based authentication, profile picture uploads, and a clean UI for seamless user experience.
