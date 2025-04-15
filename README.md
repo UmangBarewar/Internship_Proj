@@ -81,8 +81,8 @@ RealTimeChatApp/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RealTimeChatApp.git
-cd RealTimeChatApp
+git clone https://github.com/UmangBarewar/Internship_Proj.git
+cd Internship_Proj
 ```
 
 ---
